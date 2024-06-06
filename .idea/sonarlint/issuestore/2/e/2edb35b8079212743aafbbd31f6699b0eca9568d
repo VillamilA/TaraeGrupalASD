@@ -1,0 +1,25 @@
+
+V
+java:S1854""@Remove this useless assignment to local variable "radioCirculo".(œ˜
+R
+java:S1854+"<Remove this useless assignment to local variable "ladoOtro".(ø¢ÔÆ
+@	java:S106
+"+Replace this use of System.out by a logger.(ßä±
+E	java:S106"+Replace this use of System.out by a logger.(ÔËãúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¨„¥œüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(©‹½àşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(œ™¿øÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¾€¹úÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(—¡½øÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(˜¡¬
+E	java:S106"+Replace this use of System.out by a logger.(ÿ…ş¿úÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ûÿ–Ó
+G
+java:S1481""1Remove this unused "radioCirculo" local variable.(œ˜
+E	java:S106$"+Replace this use of System.out by a logger.(é”½ùıÿÿÿÿ
+E	java:S106%"+Replace this use of System.out by a logger.(ŸÄÛ¡ÿÿÿÿÿ
+@	java:S106*"+Replace this use of System.out by a logger.(èÆµÌ
+C
+java:S1481+"-Remove this unused "ladoOtro" local variable.(ø¢ÔÆ
+E	java:S1061"+Replace this use of System.out by a logger.(¬õÇßüÿÿÿÿ
+@	java:S1065"+Replace this use of System.out by a logger.(ŞÏÆÓ
